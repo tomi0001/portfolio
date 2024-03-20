@@ -1,0 +1,71 @@
+body {
+   
+    margin: 0;
+    background-color: rgb(233, 141, 198);
+
+}
+
+
+div.top {
+    background-color: #c748a1;
+}
+
+div.menu-position {
+    border-radius: 12px;
+    background-color: rgb(53, 4, 59);
+    color: rgb(226, 164, 223);
+}
+div.menu-position:hover {
+    border-radius: 12px;
+    background-color: rgb(223, 72, 135);
+    color: rgb(245, 181, 218);
+}
+
+div.styles {
+    border-radius: 20px;
+    box-shadow: 0px 0px 15px 3px #000000;
+    
+}
+div.styles:hover {
+    border-radius: 20px;
+    box-shadow: 0px 0px 15px 3px #000000;
+    background-color: rgb(182, 240, 237);
+}
+div.styles-green {
+    background-color: green;
+    color: rgb(248, 248, 248);
+}
+div.styles-green:hover {
+   
+    color: rgb(62, 22, 170);
+}
+div.styles-purple {
+    background-color: rgb(196, 40, 196);
+    color: rgb(248, 248, 248);
+}
+div.styles-purple:hover {
+   
+    color: rgb(62, 22, 170);
+}
+div.styles-yellow {
+    background-color: rgb(219, 216, 12);
+    color: rgb(58, 70, 7);
+}
+span.page-one {
+    color: rgb(80, 5, 42);
+}
+span.page-five {
+    color: rgb(80, 5, 42);
+}
+span.page-four {
+    color: rgb(80, 5, 42);
+}
+
+td.page-td-title {
+    background-color: rgba(83, 0, 58, 0.6);
+    color:#ffffff;
+}
+td.page-td {
+
+    color:rgb(80, 5, 42);
+}

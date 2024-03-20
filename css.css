@@ -1,0 +1,60 @@
+body {
+   
+    margin: 0;
+    background-color: rgb(128, 174, 245);
+
+}
+
+
+#center {
+    width: 30%;
+  
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 15%;
+  
+    color: #2b324b
+
+    
+}
+
+.position-logo1 {
+    width: 100%;
+    float: left;
+ 
+    
+    
+}
+.position-logo2 {
+    width: 100%;
+  
+   text-align: right;
+   float: left;
+   
+    
+}
+.title {
+    font-size: 46px;
+    text-align: center;
+}
+.position-title1 {
+    text-align: center;
+    width: 100%;
+    font-size: 29px;
+   
+    color: #2b324b
+}
+
+.position-title2 {
+    text-align: center;
+    width: 100%;
+    font-size: 29px;
+   
+    color: #2b324b
+}
+.center {
+
+}
+.td {
+    padding: 20px;
+}

@@ -1,0 +1,128 @@
+body {
+    background-color: #e1e155;
+    background-image: linear-gradient(180deg, #a49100 0%, #e1e155 7%, #e1e155 55%, #a49100 100%);
+
+    background-repeat:no-repeat;
+
+
+}
+#changeColorCss {
+    color: #918400;
+}
+.stylePurple {
+    background-color: purple;
+}
+.styleGreen {
+    background-color: #15DA25;
+}
+.styleYellow {
+    background-color: #e6ff00;
+}
+.colorTable {
+    color: #4b4a02;
+}
+td.title-td {
+    background-color: #b2ab1b;
+}
+div.title2 {
+    background-color: #9a8809;
+    color: white;
+}
+div.close {
+    background-color: #756505;
+}
+hr {
+    background-color: rgba(255, 255, 255, 1) !important;
+    background-image: linear-gradient(90deg, rgba(201, 139, 228, 0.5)  0%, rgba(57, 15, 76, 1) 50%, rgba(201, 139, 228, 0.5)  100%) !important;
+
+}
+.page {
+    -webkit-box-shadow: 0px 0px 38px 5px rgb(112, 106, 5);
+    -moz-box-shadow: 0px 0px 38px 5px rgb(112, 106, 5);
+    box-shadow: 0px 0px 38px 5px rgb(112, 106, 5);
+    background-color: rgba(238, 232, 134, 0.6);
+    color: #696203;
+}
+.page2::-webkit-scrollbar-thumb {
+
+    box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+    background-color: #a99f00;
+    border: 1px solid #000;
+}
+.page2::-webkit-scrollbar-track {
+    border: 1px solid #000;
+
+    background-color: #a99f00;
+}
+#FirstMain {
+    -webkit-box-shadow: 0px 0px 54px 16px rgb(196, 176, 12);
+    -moz-box-shadow: 0px 0px 54px 16px rgb(196, 176, 12);
+    box-shadow: 0px 0px 54px 16px rgb(196, 176, 12);
+    background-color: #c4b00c;
+}
+
+#SecondMain {
+    -webkit-box-shadow: 0px 0px 54px 16px rgb(196, 176, 12);
+    -moz-box-shadow: 0px 0px 54px 16px rgb(196, 176, 12);
+    box-shadow: 0px 0px 54px 16px rgb(196, 176, 12);
+    background-color: #c4b00c;
+}
+#ThirdMain {
+    -webkit-box-shadow: 0px 0px 54px 16px rgb(196, 176, 12);
+    -moz-box-shadow: 0px 0px 54px 16px rgb(196, 176, 12);
+    box-shadow: 0px 0px 54px 16px rgb(196, 176, 12);
+    background-color: #c4b00c;
+}
+#VierMain {
+    -webkit-box-shadow: 0px 0px 54px 16px rgb(196, 176, 12);
+    -moz-box-shadow: 0px 0px 54px 16px rgb(196, 176, 12);
+    box-shadow: 0px 0px 54px 16px rgb(196, 176, 12);
+    background-color: #c4b00c;
+}
+#FiveMain {
+    -webkit-box-shadow: 0px 0px 54px 16px rgb(196, 176, 12);
+    -moz-box-shadow: 0px 0px 54px 16px rgb(196, 176, 12);
+    box-shadow: 0px 0px 54px 16px rgb(196, 176, 12);
+    background-color: #c4b00c;
+}
+#sixMain {
+    -webkit-box-shadow: 0px 0px 54px 16px rgb(196, 176, 12);
+    -moz-box-shadow: 0px 0px 54px 16px rgb(196, 176, 12);
+    box-shadow: 0px 0px 54px 16px rgb(196, 176, 12);
+    background-color: #c4b00c;
+}
+.menuOver {
+    background-color: rgb(182, 182, 17);
+}
+.menuOver2 {
+    background-color: rgb(174, 182, 53);
+}
+
+.menu {
+
+    -webkit-box-shadow: 0px 0px 29px 0px rgb(127, 131, 41);
+    -moz-box-shadow: 0px 0px 29px 0px rgb(127, 131, 41);
+    box-shadow: 0px 0px 29px 0px rgb(127, 131, 41);
+}
+
+.menuTwo {
+    -webkit-box-shadow: 0px 0px 29px 0px rgb(179, 182, 120);
+    -moz-box-shadow: 0px 0px 29px 0px rgb(179, 182, 120);
+    box-shadow: 0px 0px 29px 0px rgb(179, 182, 120);
+}
+.menu2 {
+
+    -webkit-box-shadow: 0px 0px 10px 0px rgba(66, 68, 90, 1);
+    -moz-box-shadow: 0px 0px 10px 0px rgba(66, 68, 90, 1);
+    box-shadow: 0px 0px 10px 0px rgba(66, 68, 90, 1);
+}
+
+.submenu {
+    color: #757508;
+}
+.submenu2 {
+    color: #757508;
+}
+.submenu22 {
+    color: #757508;
+}

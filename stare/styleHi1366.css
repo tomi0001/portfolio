@@ -1,0 +1,351 @@
+@media (min-width: 1310px) and (max-width: 1810px) {
+   
+
+    #changeColorCss {
+        position: absolute;
+        left: 82%;
+        top: 3%;
+        width: 200px;
+        padding-top: 12px;
+        padding-left: 10px;
+        padding-right: 10px;
+        height: 50px;
+        font-size: 16px;
+        font-weight: bold;
+        float: left;
+
+
+    }
+
+.cssChange {
+    width: 30px;
+    min-height: 30px;
+    border-radius: 20px;
+    cursor: pointer;
+    float: left;
+    margin-right: 2px;
+}
+
+
+
+#main {
+    width: 11%;
+    height: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+    
+    
+}
+#up {
+    min-height: 32%;
+}
+
+#pageMain {
+    width: 100%;
+    
+    
+}
+.secondMainFirst {
+
+        width: 80px;
+        height: 80px;
+        border-radius: 50px;
+        position: absolute;
+        left: 9%;
+        top: 31%;
+
+
+
+}
+
+
+    .thirdMainFirst {
+
+
+        width: 80px;
+        height: 80px;
+        border-radius: 50px;
+        position: absolute;
+        left: 87%;
+        top: 31%;
+
+
+
+
+    }
+
+
+
+    .vierMainFirst {
+
+
+
+        width: 45px;
+        height: 45px;
+        border-radius: 50px;
+        position: absolute;
+        left: 90%;
+        top: 25%;
+
+
+
+
+
+
+    }
+
+    .secondMainTwo {
+
+        width: 80px;
+        height: 80px;
+        border-radius: 50px;
+        position: absolute;
+        left: 43%;
+        top: 31%;
+
+
+
+    }
+
+
+    .thirdMainTwo {
+
+
+        width: 80px;
+        height: 80px;
+        border-radius: 50px;
+        position: absolute;
+        left: 51%;
+        top: 31%;
+
+
+
+
+    }
+
+
+
+    .vierMainTwo {
+
+
+
+        width: 45px;
+        height: 45px;
+        border-radius: 50px;
+        position: absolute;
+        left: 55%;
+        top: 25%;
+
+
+
+
+
+
+    }
+
+.firstMainFirst {
+    width: 45px;
+    height: 45px;
+    border-radius: 50px;
+    position: absolute;
+    left: 7%;
+    top: 25%;
+}
+
+    .firstMainTwo {
+        width: 45px;
+        height: 45px;
+        border-radius: 50px;
+        position: absolute;
+        left: 41%;
+        top: 25%;
+        opacity:0.9;
+
+    }
+.menu {
+    border-radius: 18px;
+    width: 200px;
+    margin-left: 11px;
+    margin-top: 11px;
+    opacity: 0;
+    height: 55px;
+
+    cursor: default;
+
+
+}
+    .menuTwo {
+        border-radius: 18px;
+        width: 200px;
+        margin-left: 11px;
+        margin-top: 11px;
+        opacity: 0.9;
+        height: 55px;
+
+        cursor: pointer;
+
+    }
+td.title-td {
+    opacity: 0.74;
+}
+hr {
+
+    border: 1px !important;
+    height: 2px !important;
+
+}
+.large {
+    font-size: 24px;
+}
+.large-title {
+    font-size: 30px;
+    font-weight: bold;
+}
+.large-small {
+    font-size: 25px;
+    font-weight: bold;
+}
+.large2 {
+    font-size: 33px;
+}
+.page {
+    width: 60%;
+    
+    opacity: 0;
+    position: absolute;
+    border-radius: 20px;
+   
+    top: 13%;
+    left: 20%;
+    max-height: 600px;
+    min-height: 600px;
+    text-align: center;
+   
+    
+}
+.page2 {
+     overflow-y: scroll; 
+     max-height: 560px;
+     min-height: 560px;
+}
+div.title {
+  
+   
+    clear: both;
+}
+div.title2 {
+      border-radius: 20px 20px 0px 0px;
+    height: 40px;
+    width: 100%;
+     padding-top: 4px;
+    font-size: 20px;
+    font-weight: bold;
+    
+    text-align: center;
+}
+div.close {
+     float: left;
+     height: 60px;
+     width: 60px;
+     border-radius: 23px;
+     position: absolute;
+     top: -14px;
+     left: -14px;
+     cursor: pointer;
+}
+.page2::-webkit-scrollbar-track {
+
+  padding: 2px 0;
+  margin-right: 30px;
+
+}
+img.image {
+   
+}
+.page2::-webkit-scrollbar {
+  width: 10px;
+    padding-right: 30px;
+}
+
+.page2::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+    padding-right: 30px;
+
+}
+.menu2 {
+    border-radius: 9px;
+    width: 170px;
+    margin: 2px;
+    opacity: 0;
+    height: 42px;
+    cursor: default;
+
+}
+.submenu {
+    padding-top: 8%;
+    padding-left: 15%;
+    font-size: 20px;
+    font-weight: bold;
+   
+}
+.submenu2 {
+    padding-top: 5%;
+    padding-left: 4%;
+    padding-right: 4%;
+    font-size: 14px;
+    font-weight: bold;
+   
+}
+.submenu22 {
+    padding-top: 5%;
+    padding-left: 4%;
+    font-size: 14px;
+    font-weight: bold;
+}
+.center {
+    text-align: center;
+}
+.menuDiv {
+    margin-left: 21px;
+}
+
+
+    .fiveMainFirst {
+
+    
+    border-radius: 90px;
+    position: absolute;
+    left: 47%;
+    top: 39%;
+        opacity: 0;
+    
+   
+   
+}
+.empty {
+    min-height: 150px;
+}
+.empty2 {
+    min-height: 210px;
+}
+.fiveMainTwo {
+    width: 90px;
+    height: 90px;
+    border-radius: 90px;
+    position: absolute;
+    left: 47%;
+    top: 42%;
+        opacity:0.9;
+
+   
+}
+#sixMain {
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    position: absolute;
+    
+}
+}
