@@ -1,0 +1,26 @@
+
+
+
+
+span.bold {
+    font-weight: bold;
+}
+
+table.page-table {
+   
+    
+    text-align: center;
+    
+}
+td.page-td-title {
+    padding: 20px;
+    margin: 20px;
+    font-size: 25px;
+    font-weight: bold;
+}
+td.page-td {
+    padding: 20px;
+    margin: 20px;
+    font-size: 21px;
+}
+
