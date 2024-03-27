@@ -1,24 +1,24 @@
 body {
    
     margin: 0;
-    background-color: rgb(134, 201, 134);
+    background-color: rgb(255, 255, 255);
 
 }
 
 
 div.top {
-    background-color: #317434;
+    background-color: #032016;
 }
 
 div.menu-position {
     border-radius: 12px;
-    background-color: rgb(223, 220, 88);
-    color: rgb(116, 69, 0);
+    background-color: rgb(119, 252, 176);
+    color: rgb(0, 0, 0);
 }
 div.menu-position:hover {
     border-radius: 12px;
-    background-color: rgb(226, 136, 52);
-    color: rgb(116, 69, 0);
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
 }
 
 div.styles {
@@ -51,14 +51,19 @@ div.styles-yellow {
     background-color: rgb(219, 216, 12);
     color: rgb(58, 70, 7);
 }
+div.selected-position {
+    border: 3px solid #f1f09b;
+    
+   
+}
 span.page-one {
-    color: rgb(43, 53, 1);
+    color: #053a1b;
 }
 span.page-five {
-    color: rgb(43, 53, 1);
+    color: #053a1b;
 }
 span.page-four {
-    color: rgb(43, 53, 1);
+    color: #053a1b;
 }
 
 td.page-td-title {

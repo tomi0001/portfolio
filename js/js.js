@@ -46,25 +46,50 @@ function changeThemes(color) {
 function loadPage1() {
     
     $("div.page-div").html($("#page1").html());
+    $("#href1").addClass("selected-position");
+    $("#href2").removeClass("selected-position");
+    $("#href3").removeClass("selected-position");
+    $("#href4").removeClass("selected-position");
+    $("#href5").removeClass("selected-position");
     
 }
 function loadPage2() {
     
     $("div.page-div").html($("#page2").html());
+    $("#href2").addClass("selected-position");
+    $("#href1").removeClass("selected-position");
+    $("#href3").removeClass("selected-position");
+    $("#href4").removeClass("selected-position");
+    $("#href5").removeClass("selected-position");
     
 }
 function loadPage3() {
     
     $("div.page-div").html($("#page3").html());
+    $("#href3").addClass("selected-position");
+    $("#href1").removeClass("selected-position");
+    $("#href2").removeClass("selected-position");
+    $("#href4").removeClass("selected-position");
+    $("#href5").removeClass("selected-position");
     
 }
 function loadPage4() {
     
     $("div.page-div").html($("#page4").html());
+    $("#href4").addClass("selected-position");
+    $("#href2").removeClass("selected-position");
+    $("#href3").removeClass("selected-position");
+    $("#href1").removeClass("selected-position");
+    $("#href5").removeClass("selected-position");
     
 }
 function loadPage5() {
     
     $("div.page-div").html($("#page5").html());
+    $("#href5").addClass("selected-position");
+    $("#href2").removeClass("selected-position");
+    $("#href1").removeClass("selected-position");
+    $("#href4").removeClass("selected-position");
+    $("#href3").removeClass("selected-position");
     
 }
