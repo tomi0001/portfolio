@@ -68,8 +68,11 @@ div.selected-position {
 td.page-td-title {
     background-color: rgba(130, 145, 0, 0.6);
     color:#ffffff;
+    border-color: rgba(130, 145, 0, 0.6);
 }
 td.page-td {
 
     color:rgb(88, 80, 4);
+    border-color: rgba(130, 145, 0, 0.6);
+    background-color: rgba(245, 244, 190, 0.6)
 }

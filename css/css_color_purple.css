@@ -69,8 +69,11 @@ span.page-four {
 td.page-td-title {
     background-color: rgba(83, 0, 58, 0.6);
     color:#ffffff;
+    border-color: rgba(83, 0, 58, 0.6);
 }
 td.page-td {
 
     color:rgb(80, 5, 42);
+    border-color: rgba(83, 0, 58, 0.6);
+    background-color: rgba(241, 209, 232, 0.6);
 }
